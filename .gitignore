@@ -1,0 +1,15 @@
+/bin
+/bin/*
+*.class
+*.jar
+/target
+/target/*
+.DS_Store
+/.cache
+/.cache-main
+/.classpath
+/.idea
+/.idea/*
+/.project
+/.settings
+/.settings/*
